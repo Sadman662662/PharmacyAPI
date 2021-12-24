@@ -1,2 +1,2 @@
-# PharmacyAPI
-ASP Dot Net Project
+# PharmacyApp
+ASP DOT NET Project
